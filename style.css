@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header{
+    background-color: silver;
+    color: black;
+    height: 100px;
+  
+  }
+  
+  
+  nav{
+    float:right;
+    padding-top: 10px;
+    margin-right: 50px;
+  
+  }
+  
+
+  
+  article{
+    margin-top: 40px;
+    padding-left: 35px;
+    display: inline-flex;
+    text-align: center;
+  
+  }
+  
+  footer{
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    height: 50px;
+    font-size: 19px;
+    margin-top: 100px
+  }
+  
